@@ -1,1 +1,22 @@
-body { ... } h1 { ... } p { ... }
+body {
+  background-color: #fff5da;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 40px 20px;
+}
+
+h1 {
+  font-family: 'Bangers', cursive;
+  font-size: 4rem;
+  color: #e8342a;
+  text-shadow: 3px 3px 0px #ffcc00;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #1b7a72;
+  font-weight: bold;
+}
